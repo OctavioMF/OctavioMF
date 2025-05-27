@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Octavio</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Backend+Developer;Software+Development+Student" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently working on [AnimeLibre](https://github.com/OctavioMF/AnimeLibre)
 
