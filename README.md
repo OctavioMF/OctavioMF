@@ -34,5 +34,11 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioMF&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=OctavioMF&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" height="150">
+</div>
+
+
 <h1></h1>
 
