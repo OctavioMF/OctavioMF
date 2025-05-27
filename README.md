@@ -3,6 +3,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Junior+Fullstack+Developer;Software+Development+Student" alt="Typing SVG" /></a>
 </div>
 
+## 🧑‍💻 About Me
+
 
 - 🔭 I’m currently working on [AnimeLibre](https://github.com/OctavioMF/AnimeLibre)
 
@@ -33,12 +35,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctavioMF&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=OctavioMF&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" height="150">
-</div>
-
-
 <h1></h1>
+
 
