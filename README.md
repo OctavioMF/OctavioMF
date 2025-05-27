@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Octavio</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Octavio</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
 - 🔭 I’m currently working on [AnimeLibre](https://github.com/OctavioMF/AnimeLibre)
